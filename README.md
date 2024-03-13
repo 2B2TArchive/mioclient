@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/2B2TArchive/MioClient-V1/blob/main/github/images/favicon.png)https://github.com/2B2TArchive/MioClient-V1/blob/main/github/images/favicon.png">
+  <img src="https://github.com/2B2TArchive/MioClient-V1/blob/main/github/images/favicon.png">
 </p>
 
 
